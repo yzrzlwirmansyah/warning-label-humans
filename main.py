@@ -7,7 +7,7 @@ Stdlib only, deterministic.
 
 import os
 
-LINE = "WARNING: This human is 100% certain about things it learned from a headline it only half read."
+LINE = "WARNING: This human will argue with strangers online until 2 a.m. about a topic it googled five minutes ago."
 
 
 def main() -> None:
